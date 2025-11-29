@@ -1,0 +1,7 @@
+total 32
+-rw------- 1 reis reis    16 Oct 27 09:44 -ls
+drwxr-xr-x 2 reis reis  4096 Oct 27 09:48 .
+drwxr-xr-x 4 reis reis  4096 Oct 27 09:26 ..
+-rwxr-xr-x 1 reis reis 16360 Oct 27 09:48 main
+-rw-r--r-- 1 reis reis   868 Oct 27 09:48 main.c
+-rw------- 1 reis reis     0 Oct 27 09:48 out.out

@@ -1,0 +1,2 @@
+CFLAGS = -Wall -Werror -std=gnu23 -g -fsanitize=und│························
+efined,address,leak

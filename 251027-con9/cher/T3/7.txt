@@ -1,0 +1,5 @@
+#! /home/reis/MSU/sem3/251027/cher/T3/main a b c d
+
+7
+4
+5
